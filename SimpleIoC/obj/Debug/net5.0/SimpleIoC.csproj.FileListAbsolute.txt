@@ -1,0 +1,12 @@
+C:\D\Me\SimpleIoC\SimpleIoC\obj\Debug\net5.0\SimpleIoC.csproj.AssemblyReference.cache
+C:\D\Me\SimpleIoC\SimpleIoC\obj\Debug\net5.0\SimpleIoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Me\SimpleIoC\SimpleIoC\obj\Debug\net5.0\SimpleIoC.AssemblyInfoInputs.cache
+C:\D\Me\SimpleIoC\SimpleIoC\obj\Debug\net5.0\SimpleIoC.AssemblyInfo.cs
+C:\D\Me\SimpleIoC\SimpleIoC\obj\Debug\net5.0\SimpleIoC.csproj.CoreCompileInputs.cache
+C:\D\Me\SimpleIoC\SimpleIoC\bin\Debug\net5.0\SimpleIoC.deps.json
+C:\D\Me\SimpleIoC\SimpleIoC\bin\Debug\net5.0\SimpleIoC.dll
+C:\D\Me\SimpleIoC\SimpleIoC\bin\Debug\net5.0\ref\SimpleIoC.dll
+C:\D\Me\SimpleIoC\SimpleIoC\bin\Debug\net5.0\SimpleIoC.pdb
+C:\D\Me\SimpleIoC\SimpleIoC\obj\Debug\net5.0\SimpleIoC.dll
+C:\D\Me\SimpleIoC\SimpleIoC\obj\Debug\net5.0\ref\SimpleIoC.dll
+C:\D\Me\SimpleIoC\SimpleIoC\obj\Debug\net5.0\SimpleIoC.pdb
